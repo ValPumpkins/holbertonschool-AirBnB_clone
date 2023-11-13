@@ -20,3 +20,17 @@ During this project, we will learn how to manipulate HTML and CSS languages. HTM
 - **0-index.html** : Inline styling
 ![](https://i.imgur.com/nq4Ovd2.png)
 
+- **1-index.html** : same layout but using `<style>` in the `head`
+![](https://i.imgur.com/nq4Ovd2.png)
+
+- **2-index.html** : same layout but using `CSS` files :
+    - **styles/2-common.css** : style for common (like `body`)
+    - **styles/2-header.css** : style for header
+    - **styles/2-footer.css** : style for footer
+![](https://i.imgur.com/nq4Ovd2.png)
+
+- **3-index.html** : new layout using `CSS` files :
+    - **styles/3-common.css** : style for common (like `body`)
+    - **styles/3-header.css** : style for header
+    - **styles/3-footer.css** : style for footer
+![](https://i.imgur.com/5KZowqR.png)
