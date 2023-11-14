@@ -36,23 +36,39 @@ During this project, we will learn how to manipulate HTML and CSS languages. HTM
 ![](https://i.imgur.com/5KZowqR.png)
 
 - **4-index.html** : filters box with search button using `CSS` style sheets :
-    - **styles/4-common.css** : style for common (like `body`)
+    - **styles/4-common.css** : style for common (like `body` and `.container`)
     - **styles/3-header.css** : style for header
     - **styles/3-footer.css** : style for footer
     - **styles/4-filters.css** : style for filters
 ![](https://i.imgur.com/QSyda9b.png)
 
 - **5-index.html** : more filters
-    - **styles/4-common.css** : style for common (like `body`)
+    - **styles/4-common.css** : style for common (like `body` and `.container`)
     - **styles/3-header.css** : style for header
     - **styles/3-footer.css** : style for footer
     - **styles/5-filters.css** : style for filters
 ![](https://i.imgur.com/aMhwaTb.png)
 
 - **6-index.html** : filters with dropdown
-    - **styles/4-common.css** : style for common (like `body`)
+    - **styles/4-common.css** : style for common (like `body` and `.container`)
     - **styles/3-header.css** : style for header
     - **styles/3-footer.css** : style for footer
     - **styles/6-filters.css** : style for filters
 ![](https://i.imgur.com/ia9QIz0.png)
 ![](https://i.imgur.com/HIX8a6K.png)
+
+- **7-index.html** : add places
+    - **styles/4-common.css** : style for common (like `body` and `.container`)
+    - **styles/3-header.css** : style for header
+    - **styles/3-footer.css** : style for footer
+    - **styles/6-filters.css** : style for filters
+    - **styles/7-places.css** : style for placees
+![](https://i.imgur.com/wYdEkfZ.png)
+
+- **8-index.html** : more information to a Place `article`
+    - **styles/4-common.css** : style for common (like `body` and `.container`)
+    - **styles/3-header.css** : style for header
+    - **styles/3-footer.css** : style for footer
+    - **styles/6-filters.css** : style for filters
+    - **styles/8-places.css** : style for placees
+![](https://i.imgur.com/XF4HZea.png)
