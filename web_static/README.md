@@ -17,6 +17,11 @@ During this project, we will learn how to manipulate HTML and CSS languages. HTM
 
 ![](https://i.imgur.com/rYb38nT.png)
 
+## Final Product
+![](https://i.imgur.com/mk0NQZk.png)
+![](https://i.imgur.com/qlXDS89.png)
+
+## Tasks
 - **0-index.html** : Inline styling
 ![](https://i.imgur.com/nq4Ovd2.png)
 
