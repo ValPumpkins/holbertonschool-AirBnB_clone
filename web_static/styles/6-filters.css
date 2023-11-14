@@ -59,11 +59,13 @@
 .popover h2 {
 	font-size: 16px;
 	margin-top: 0px;
+	padding-bottom: 5px;
 }
 .popover ul {
 	margin-left: -10px;
 	margin-top: -10px;
 	padding-bottom: 10px;
+	padding-left: 25px;
 }
 .popover li {
 	font-size: 14px;
