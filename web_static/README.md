@@ -23,14 +23,36 @@ During this project, we will learn how to manipulate HTML and CSS languages. HTM
 - **1-index.html** : same layout but using `<style>` in the `head`
 ![](https://i.imgur.com/nq4Ovd2.png)
 
-- **2-index.html** : same layout but using `CSS` files :
+- **2-index.html** : same layout but using `CSS` style sheets :
     - **styles/2-common.css** : style for common (like `body`)
     - **styles/2-header.css** : style for header
     - **styles/2-footer.css** : style for footer
 ![](https://i.imgur.com/nq4Ovd2.png)
 
-- **3-index.html** : new layout using `CSS` files :
+- **3-index.html** : new layout using `CSS` style sheets :
     - **styles/3-common.css** : style for common (like `body`)
     - **styles/3-header.css** : style for header
     - **styles/3-footer.css** : style for footer
 ![](https://i.imgur.com/5KZowqR.png)
+
+- **4-index.html** : filters box with search button using `CSS` style sheets :
+    - **styles/4-common.css** : style for common (like `body`)
+    - **styles/3-header.css** : style for header
+    - **styles/3-footer.css** : style for footer
+    - **styles/4-filters.css** : style for filters
+![](https://i.imgur.com/QSyda9b.png)
+
+- **5-index.html** : more filters
+    - **styles/4-common.css** : style for common (like `body`)
+    - **styles/3-header.css** : style for header
+    - **styles/3-footer.css** : style for footer
+    - **styles/5-filters.css** : style for filters
+![](https://i.imgur.com/aMhwaTb.png)
+
+- **6-index.html** : filters with dropdown
+    - **styles/4-common.css** : style for common (like `body`)
+    - **styles/3-header.css** : style for header
+    - **styles/3-footer.css** : style for footer
+    - **styles/6-filters.css** : style for filters
+![](https://i.imgur.com/ia9QIz0.png)
+![](https://i.imgur.com/HIX8a6K.png)
