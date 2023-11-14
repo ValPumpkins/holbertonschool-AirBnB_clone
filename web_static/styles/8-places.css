@@ -18,6 +18,8 @@
 	border: solid 1px #FF5A5F;
 	border-radius: 4px;
 	position: relative;
+	min-height: 390px;
+	vertical-align: top;
 }
 .places article h2 {
 	font-size: 30px;
